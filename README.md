@@ -1,3 +1,3 @@
 # NSV.portfolio
-This is Nikhil's portfolio
-Author-Nikhil Vilag
+This is my first Git Repository.
+Author-Nikhil Vilag.
